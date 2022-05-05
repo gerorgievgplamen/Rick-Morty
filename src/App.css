@@ -1,0 +1,29 @@
+p{
+  margin: 0px;
+}
+
+main{
+  background-color: rgb(118, 92, 92);
+  color:whitesmoke ;
+}
+
+.characters{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card{
+    margin: 1rem;
+    background-color: rgb(160, 134, 134);
+    padding: 1rem;
+    border-radius: 1rem;
+    max-width: 300px;
+    img{
+      border-radius: 1rem;
+    }
+  }
+
+body{
+  box-sizing: border-box;
+}
+
